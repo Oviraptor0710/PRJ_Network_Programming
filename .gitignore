@@ -1,0 +1,9 @@
+build/
+*.o
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.env
+.env.*
+!.env.example
